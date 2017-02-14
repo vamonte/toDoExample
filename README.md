@@ -1,7 +1,7 @@
 # toDoExample
 
 toDoExample is a DjangoRestFramework project used for some personal examples.
-
+For example this project is used to demonstrate how to deploy a swarm stack behind a traefik proxy. (https://github.com/vamonte/TraefikExample)
 
 ### How to
 
